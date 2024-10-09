@@ -1,8 +1,8 @@
-### An important note: 
+## An important note 
 
-This study and the analysis of the underlying ANN models is that the paper was written prior to any successful attempts at predicting peformance indicators. However, the program and data were reevaluated to remove any erroneous data or programmatic errors in an effort to realize the initial objective of the study. I was successful in correcting the issues and was able to significantly reduce the MSE that was observed for each of the ANN models.
+The analysis of the underlying ANN models in this paper was written prior to any successful attempts at predicting peformance indicators. However, the program and data were reevaluated to remove any erroneous data or programmatic errors in an effort to realize the initial objective of the study. I was successful in correcting the issues and was able to significantly reduce the MSE that was observed for each of the ANN models. The paper has not been revised as of yet, but the plan is to rewrite it to include the new information from the successful tests.
 
-### Purpose 
+## Purpose 
 The purpose of this study is to make
 predictions about some performance indicators of a
 turbofan aircraft by utilizing modern Artificial Neural
@@ -21,7 +21,7 @@ precision. By using an ANN to predict performance,
 time spent calculating the impact of design changes
 can be reduced.
 
-### Objective
+## Objective
 
 This study is intended to complement the
 presentation that analyzed other studies that
