@@ -1,6 +1,6 @@
 # An important note 
 
-The analysis of the underlying ANN models in this paper was written prior to any successful attempts at predicting peformance indicators. However, the program and data were reevaluated to remove any erroneous data or programmatic errors in an effort to realize the initial objective of the study. I was successful in correcting the issues and was able to significantly reduce the MSE that was observed for each of the ANN models. The paper has not been revised as of yet, but the plan is to rewrite it to include the new information from the successful tests.
+The analyses of the underlying ANN models in this paper were written prior to any successful attempts at predicting peformance indicators. However, the program and data were reevaluated to remove any erroneous data or programmatic errors in an effort to realize the initial objective of the study. I was successful in correcting the issues and was able to significantly reduce the MSE that was observed for each of the ANN models. The paper has not been revised as of yet, but the plan is to rewrite it to include the new information from the successful tests.
 
 # Abstract
 
